@@ -28,3 +28,13 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+
+# terraform
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+*.tfvars
+crash.log
+
