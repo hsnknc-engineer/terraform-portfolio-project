@@ -98,7 +98,11 @@ terraform destroy
 ```
 
 
+## Conclusion
 
+This project showcases my ability to deploy a secure, scalable, and globally accessible web application on AWS using Terraform. 
+
+By leveraging S3 for storage, CloudFront for content delivery, and Terraform for IaC, I’ve demonstrated a comprehensive understanding of AWS services and best practices for cloud deployment.
 
 
 
